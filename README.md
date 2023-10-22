@@ -35,7 +35,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by navigating  `pages/login?`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/]
+[Web3 Building Blocks building upon](https://github.com/jcovington16/unitrap/edit/main/README.md) can be accessed on [http://localhost:3000/]
 (http://localhost:3000/login?). 
 
 This Wormhole endpoint can be edited in `pages/vote`.
@@ -50,14 +50,14 @@ NextJS/React/JavaScript, Ethers, Bootstrap, Web3.js, Foundry/Forge Testing
 
 Integrations: 
 
-Uniswap hooks,
-Chainlink ,
-Cometh Wallet
-Tableland
-Arbitrum
-Mantle
-Wormhole Bridge
-SAFE stripe-crypto-onramp,
-NEXTID
-Scroll
+Uniswap hooks: 
+Chainlink: 
+Cometh Wallet:
+Tableland:
+Arbitrum:
+Mantle:
+Wormhole Bridge:
+SAFE stripe-crypto-onramp:
+NEXTID:
+Scroll: 
                        
